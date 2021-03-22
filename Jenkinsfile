@@ -2,7 +2,7 @@ node {
     stage('commit') {
     
                     
-      git 'https://github.com/Indhuja-R/php.git'
+      git 'https://github.com/Indhuja-R/javac.git'
 
      
     }
